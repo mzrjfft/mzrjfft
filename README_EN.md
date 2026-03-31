@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm LeoKain 👋</h1>
+<h1 align="center">Hi, I'm LeoKain 👋 Building my life</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=980&lines=Embedded+Systems+%7C+AI+Applications+%7C+Automation;Hardware+Prototype+Builder;Vision+%2F+Agent+Workflow+Explorer;Turning+Ideas+into+Runnable+Demos" alt="Typing SVG" />
@@ -23,24 +23,7 @@
 
 ---
 
-## About Me
-
-I’m a developer focused on **embedded systems, AI applications, automation engineering, computer vision, and intelligent hardware prototyping**.
-
-I enjoy turning ideas into runnable demos, then pushing them toward more complete engineering systems.  
-I care not only about making things work, but also about making them expressive, interactive, and product-oriented.
-
----
-
-## What I’m Working On
-
-- Vision-based automation testing systems
-- OpenClaw / voice-agent interaction experiments
-- Lightweight AI + hardware demos
-- Automation tooling and diagnostic workflows
-- Intelligent hardware projects with stronger product feel
-
----
+<p align="center"><i>ENTP | A Gen Z builder with a wild mix of skills | Making quirky little things for all kinds of scenarios</i></p>
 
 ## 🛠 Tech Stack
 
@@ -48,7 +31,6 @@ I care not only about making things work, but also about making them expressive,
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white" />
 </p>
 
