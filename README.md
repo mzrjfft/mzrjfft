@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm LeoKain 👋</h1>
+<h1 align="center">Hi, I'm LeoKain 👋 Building my life！</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=980&lines=Embedded+Systems+%7C+AI+Applications+%7C+Automation;Hardware+Prototype+Builder;Vision+%2F+Agent+Workflow+Explorer;Turning+Ideas+into+Runnable+Demos" alt="Typing SVG" />
@@ -22,11 +22,9 @@
 </p>
 
 ---
-## Build my life！
 *ENTP | 一名00后有“大杂烩技能库”的开发者 | 喜欢做一些各种场景下稀奇古怪小玩意*
 ---
 
-## 技术栈
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -56,10 +54,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
----
-
-
-## 我的特点
 
 - 软硬协同，AI工具使用狂人
 - 喜欢从**好像挺好玩 → 一个好像没啥用的废品 → Demo → 工程落地**
