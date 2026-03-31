@@ -13,20 +13,11 @@
   <a href="https://github.com/mzrjfft">
     <img src="https://img.shields.io/badge/GitHub-mzrjfft-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://x.com/your-account">
+  <a href="https://x.com/mzrjfft?s=21">
     <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x" />
   </a>
-  <a href="https://www.xiaohongshu.com/user/profile/your-id">
+  <a href="https://xhslink.com/m/9PY4HHuTLQs">
     <img src="https://img.shields.io/badge/Xiaohongshu-Profile-red?style=for-the-badge" />
-  </a>
-  <a href="https://your-site.com">
-    <img src="https://img.shields.io/badge/Portfolio-Website-4A90E2?style=for-the-badge" />
   </a>
 </p>
 
@@ -84,49 +75,6 @@ I care not only about making things work, but also about making them expressive,
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
-
----
-
-## Featured Projects
-
-### Vision-based Vehicle Automation Testing
-A computer-vision-based automation testing system for vehicle functional states such as doors, tailgates, and mirrors.
-
-**Highlights**
-- Built data pipelines for cleaning, conversion, and semi-automatic labeling
-- Trained YOLO-based models for real-time recognition
-- Optimized deployment with TensorRT on Jetson platforms
-- Connected recognition results to live monitoring and report generation
-
----
-
-### OpenClaw Voice Demo
-An experimental voice-native interaction project built around OpenClaw and LLM workflows.
-
-**Highlights**
-- Connected Bot, STT, TTS, and LLM into a complete interaction loop
-- Explored more natural voice-agent experiences
-- Tested product directions around companionship, reminders, and emotional interaction
-
----
-
-### Embedded AI Prototyping
-Rapid prototypes for playful, emotional, and product-oriented intelligent hardware demos.
-
-**Examples**
-- Daily fortune device
-- Meeting feedback / meeting roast device
-- Small-screen interactive hardware concepts
-- AI + hardware demos with ritual, companionship, and shareability
-
----
-
-## Strengths
-
-- Strong ability to connect **software, hardware, AI, and product thinking**
-- Comfortable moving from **idea → prototype → demo → engineering implementation**
-- Deep interest in **AI + Hardware** and **Agent + Voice** experiences
-- Able to balance technical feasibility with presentation and user perception
 
 ---
 
