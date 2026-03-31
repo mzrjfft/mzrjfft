@@ -12,45 +12,30 @@
   <a href="https://github.com/mzrjfft">
     <img src="https://img.shields.io/badge/GitHub-mzrjfft-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://x.com/your-account">
+  
+  <a href="https://x.com/mzrjfft?s=21">
     <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x" />
   </a>
-  <a href="https://www.xiaohongshu.com/user/profile/your-id">
+  <a href=" https://xhslink.com/m/9PY4HHuTLQs ">
     <img src="https://img.shields.io/badge/Xiaohongshu-Profile-red?style=for-the-badge" />
-  </a>
-  <a href="https://your-site.com">
-    <img src="https://img.shields.io/badge/Portfolio-Website-4A90E2?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
 ## 关于我
-
-我是一名关注 **嵌入式系统、AI 应用、自动化工程、计算机视觉与智能硬件原型** 的开发者。
-
-我喜欢把一个想法快速做成可运行 Demo，再逐步推进成更完整的工程方案。  
-我的兴趣不止是“把功能做出来”，也包括如何让技术具备更好的交互感、展示感和产品表达。
+**ENTP | 一名00后有“大杂烩技能库”的开发者 | 喜欢做一些各种场景下稀奇古怪小玩意*
 
 ---
 
 ## 技术栈
 
-### Languages
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white" />
 </p>
-
-### Embedded / Robotics
 <p>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
@@ -59,16 +44,12 @@
   <img src="https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
 </p>
-
-### AI / Vision
 <p>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLO-111111?style=flat-square" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" />
 </p>
-
-### Backend / Tools
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
@@ -82,10 +63,10 @@
 
 ## 我的特点
 
-- 能把**软件、硬件、AI 和产品想法**串起来
-- 擅长从**概念 → 原型 → Demo → 工程化实现**
-- 对**AI + Hardware / Agent + Voice**方向有持续兴趣
-- 既关注技术可实现性，也关注展示效果和用户感知
+- 软硬协同，AI工具使用狂人
+- 喜欢从**好像挺好玩 → 一个好像没啥用的废品 → Demo → 工程落地**
+- 当前在做**AI + Hardware / Agent + Voice**方向
+- 先看好不好玩感不感兴趣再去用🤣
 
 ---
 
