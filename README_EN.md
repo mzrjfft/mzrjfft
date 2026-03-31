@@ -1,9 +1,4 @@
 
----
-
-## 文件 2：`README_EN.md`
-
-```md
 <h1 align="center">Hi, I'm LeoKain 👋</h1>
 
 <p align="center">
